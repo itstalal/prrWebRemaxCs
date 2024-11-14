@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|c:\\users\\elmou\\session4_cs\\prjwebremax\\prjwebremax\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|solutionrelative:prjwebremax\\webform1.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|c:\\users\\elmou\\session4_cs\\prjwebremax\\prjwebremax\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|solutionrelative:prjwebremax\\webform1.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|c:\\users\\elmou\\session4_cs\\prjwebremax\\prjwebremax\\app_code\\clsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|solutionrelative:prjwebremax\\app_code\\clsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|c:\\users\\elmou\\session4_cs\\prjwebremax\\prjwebremax\\app_code\\clslistclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|solutionrelative:prjwebremax\\app_code\\clslistclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|c:\\users\\elmou\\session4_cs\\prjwebremax\\prjwebremax\\app_code\\clslistmaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|solutionrelative:prjwebremax\\app_code\\clslistmaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|c:\\users\\elmou\\session4_cs\\prjwebremax\\prjwebremax\\app_code\\clscompagnie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|solutionrelative:prjwebremax\\app_code\\clscompagnie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|c:\\users\\elmou\\session4_cs\\prjwebremax\\prjwebremax\\app_code\\clsagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|solutionrelative:prjwebremax\\app_code\\clsagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|c:\\users\\elmou\\session4_cs\\prjwebremax\\prjwebremax\\app_code\\clsmaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|solutionrelative:prjwebremax\\app_code\\clsmaison.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjwebremax\\app_code\\clslistagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91370653-BB96-42ED-B476-4EBE82F15D42}|prjWebRemax\\prjWebRemax.csproj|solutionrelative:prjwebremax\\app_code\\clslistagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm1.aspx",
+              "DocumentMoniker": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\WebForm1.aspx",
+              "RelativeDocumentMoniker": "prjWebRemax\\WebForm1.aspx",
+              "ToolTip": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\WebForm1.aspx",
+              "RelativeToolTip": "prjWebRemax\\WebForm1.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-14T01:05:42.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsMaison.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsMaison.cs",
+              "RelativeDocumentMoniker": "prjWebRemax\\App_code\\clsMaison.cs",
+              "ToolTip": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsMaison.cs",
+              "RelativeToolTip": "prjWebRemax\\App_code\\clsMaison.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:49:52.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsAgent.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsAgent.cs",
+              "RelativeDocumentMoniker": "prjWebRemax\\App_code\\clsAgent.cs",
+              "ToolTip": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsAgent.cs",
+              "RelativeToolTip": "prjWebRemax\\App_code\\clsAgent.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:49:49.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsClient.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsClient.cs",
+              "RelativeDocumentMoniker": "prjWebRemax\\App_code\\clsClient.cs",
+              "ToolTip": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsClient.cs",
+              "RelativeToolTip": "prjWebRemax\\App_code\\clsClient.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAEwFsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:49:48.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsCompagnie.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsCompagnie.cs",
+              "RelativeDocumentMoniker": "prjWebRemax\\App_code\\clsCompagnie.cs",
+              "ToolTip": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsCompagnie.cs",
+              "RelativeToolTip": "prjWebRemax\\App_code\\clsCompagnie.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAEwEkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:49:45.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsListClient.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsListClient.cs",
+              "RelativeDocumentMoniker": "prjWebRemax\\App_code\\clsListClient.cs",
+              "ToolTip": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsListClient.cs",
+              "RelativeToolTip": "prjWebRemax\\App_code\\clsListClient.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:49:38.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsListMaison.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsListMaison.cs",
+              "RelativeDocumentMoniker": "prjWebRemax\\App_code\\clsListMaison.cs",
+              "ToolTip": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsListMaison.cs",
+              "RelativeToolTip": "prjWebRemax\\App_code\\clsListMaison.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAADgvzwAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:49:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm1.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\WebForm1.aspx.cs",
+              "RelativeDocumentMoniker": "prjWebRemax\\WebForm1.aspx.cs",
+              "ToolTip": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\WebForm1.aspx.cs",
+              "RelativeToolTip": "prjWebRemax\\WebForm1.aspx.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:48:47.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "clsListAgent.cs",
+              "DocumentMoniker": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsListAgent.cs",
+              "RelativeDocumentMoniker": "prjWebRemax\\App_code\\clsListAgent.cs",
+              "ToolTip": "C:\\Users\\elmou\\Session4_Cs\\prjWebRemax\\prjWebRemax\\App_code\\clsListAgent.cs",
+              "RelativeToolTip": "prjWebRemax\\App_code\\clsListAgent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T00:11:39.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
